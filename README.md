@@ -3,10 +3,7 @@
 </div>
 
 ### Hi there 👋, My Name is ###MD. RASHEL MIA
-#### I am Software Developer (PHP & Laravel)
-![I am Software Developer (PHP & Laravel)]
-
-Hello! I'm a passionate software developer with expertise in PHP and the Laravel framework. I have a strong background in developing robust and scalable web applications, and I'm constantly seeking new challenges to enhance my skills and knowledge in the ever-evolving world of technology.
+I'm a passionate software developer useing PHP (Laravel) with expertise in PHP and the Laravel framework. I have a strong background in developing robust and scalable web applications, and I'm constantly seeking new challenges to enhance my skills and knowledge in the ever-evolving world of technology.
 
 ##Technical Skills
 Programming Languages: PHP, JavaScript, Python, HTML, CSS
