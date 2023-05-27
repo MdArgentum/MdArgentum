@@ -1,7 +1,7 @@
-<div style="text-align:center;>
+<div style="text-align:center;">
 <a href="https://ibb.co/JnTnxPb"><img width="50%" height="200px" src="https://i.ibb.co/JnTnxPb/Whats-App-Image-2023-05-27-at-10-21-16.jpg" alt="Whats-App-Image-2023-05-27-at-10-21-16" border="0"></a>
 </div>
-<a href="https://ibb.co/JnTnxPb"><img width="100%" height="auto" src="https://i.ibb.co/JnTnxPb/Whats-App-Image-2023-05-27-at-10-21-16.jpg" alt="Whats-App-Image-2023-05-27-at-10-21-16" border="0"></a>
+
 ### Hi there 👋, My Name is ###MD. RASHEL MIA
 #### I am Software Developer (PHP & Laravel)
 ![I am Software Developer (PHP & Laravel)]
