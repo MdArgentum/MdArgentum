@@ -1,6 +1,6 @@
 <img height="302px" width="100%" src='https://drscdn.500px.org/photo/1070307882/m%3D900/v2?sig=7207434b6c474655363fd40fe24f405bc4a3c69146a5f6e7a51c9a52d68cee3f' alt='PHOTO FOR GITHUB by MD. RASHEL MIA on 500px.com' />
 
-<h1>Hi there, My Name is MD. RASHEL MIA</h1>
+<h1>Hi there! My Name is <mark>MD. RASHEL MIA</mark></h1>
 I'm a passionate software developer useing PHP (Laravel) with expertise in PHP and the Laravel framework. I have a strong background in developing robust and scalable web applications, and I'm constantly seeking new challenges to enhance my skills and knowledge in the ever-evolving world of technology.
 
 <h2> <i>Technical Skills</i></h2>
@@ -48,13 +48,18 @@ Thank you for taking the time to review my profile. I am excited about the oppor
 If you have any further questions or would like to discuss potential collaborations, please feel free to reach out to me.
 
 <h2> <i>Here is Contact Details: </i></h2>
-<h4>MD. RASHEL MIA </H4>
+<h4> <u>MD. RASHEL MIA</u> </H4>
 <i>Web Developer</i> <br>
-Mobile: +8801538054041 (What'sApp)<br>
-Email: mia47rashel@gmail.com </br>
+Mobile: <a href="tel:8801538054041">+8801538054041</a> (What'sApp)<br>
+Email: <a href="mailto:mia47rashel@gmail.com">mia47rashel@gmail.com</a>
+ </br>
 
 Skills: <br>
-Programming Languages: PHP, JavaScript, Python, HTML, CSS Frameworks and Libraries: Laravel, jQuery Databases: MySQL, PostgreSQL, MongoDB Version Control: Git, GitHub Tools and Technologies: RESTful APIs, JSON, AJAX, Bootstrap, PHPUnit, Composer and so many on.
+Programming Languages: PHP, JavaScript, Python, HTML, CSS </br>
+Frameworks and Libraries: Laravel, jQuery </br>
+Databases: MySQL, PostgreSQL, MongoDB </br>
+Version Control: Git, GitHub </br>
+Tools and Technologies: RESTful APIs, JSON, AJAX, Bootstrap, PHPUnit, Composer and so many on.
 
 - 🔭 I’m currently working on this page. 
 
