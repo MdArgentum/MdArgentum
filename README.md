@@ -4,8 +4,9 @@
 
 <h1>Hi there, My Name is MD. RASHEL MIA</h1>
 I'm a passionate software developer useing PHP (Laravel) with expertise in PHP and the Laravel framework. I have a strong background in developing robust and scalable web applications, and I'm constantly seeking new challenges to enhance my skills and knowledge in the ever-evolving world of technology.
-
+<hr/>
 ###Technical Skills
+<hr/>
 Programming Languages: PHP, JavaScript, Python, HTML, CSS
 Frameworks and Libraries: Laravel, jQuery
 Databases: MySQL, PostgreSQL, MongoDB
@@ -13,6 +14,7 @@ Version Control: Git, GitHub
 Tools and Technologies: RESTful APIs, JSON, AJAX, Bootstrap, PHPUnit, Composer
 
 ##Professional Experience
+<hr/>
 Over the years, I have Learing and  gained hands-on experience working on various software development projects.
 
 ##Education
