@@ -1,8 +1,8 @@
 <div style="text-align:center;">
-<a href="#"><img width="100%" height="300px" src="https://photos.app.goo.gl/ipHw15Jq41rCY14R9" alt="Whats-App-Image-2023-05-27-at-10-21-16" border="0"></a>
+<img width="100%" height="300px" src="https://photos.app.goo.gl/ipHw15Jq41rCY14R9" alt="Photo" border="0">
 </div>
 
-### Hi there 👋, My Name is ###MD. RASHEL MIA
+<h1>Hi there, My Name is MD. RASHEL MIA</h1>
 I'm a passionate software developer useing PHP (Laravel) with expertise in PHP and the Laravel framework. I have a strong background in developing robust and scalable web applications, and I'm constantly seeking new challenges to enhance my skills and knowledge in the ever-evolving world of technology.
 
 ###Technical Skills
