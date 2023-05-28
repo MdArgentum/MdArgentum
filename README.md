@@ -6,7 +6,7 @@
 I'm a passionate software developer useing PHP (Laravel) with expertise in PHP and the Laravel framework. I have a strong background in developing robust and scalable web applications, and I'm constantly seeking new challenges to enhance my skills and knowledge in the ever-evolving world of technology.
 
 <h2> <i>Technical Skills</i></h2>
-<hr/>
+
 Programming Languages: PHP, JavaScript, Python, HTML, CSS
 Frameworks and Libraries: Laravel, jQuery
 Databases: MySQL, PostgreSQL, MongoDB
@@ -14,15 +14,15 @@ Version Control: Git, GitHub
 Tools and Technologies: RESTful APIs, JSON, AJAX, Bootstrap, PHPUnit, Composer
 
 <h2> <i>Professional Experience</i></h2>
-<hr/>
+
 Over the years, I have Learing and  gained hands-on experience working on various software development projects.
 
 <h2> <i>Education</i></h2>
 Right Now I am doing  a Bachelor of Science in Chemistry from Dhaka College(Affiliated) with University of Dhaka. Throughout my academic journey, I gained a solid foundation in programming concepts, data structures, algorithms, and software development methodologies. I continue to stay updated with the latest advancements in the field through self-learning and attending relevant workshops and conferences.
 
 <h2> <i>Training and Courses</i></h2>
-01. National Skill Certificate-IV in Web Development, NTVQF Level-IV -Bangladesh Technical Education Board
-02. Web Design - Bangladesh-Korea Technical Training Centre
+01. National Skill Certificate-IV in Web Development, NTVQF Level-IV -Bangladesh Technical Education Board <br/>
+02. Web Design - Bangladesh-Korea Technical Training Centre <br/>
 03. Diploma in Computer Science and ICT - Job Media Shorthand and Computer Training Center
 
 <h2> <i>Personal Projects and Contributions:</i></h2>
