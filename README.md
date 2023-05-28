@@ -5,7 +5,7 @@
 ### Hi there 👋, My Name is ###MD. RASHEL MIA
 I'm a passionate software developer useing PHP (Laravel) with expertise in PHP and the Laravel framework. I have a strong background in developing robust and scalable web applications, and I'm constantly seeking new challenges to enhance my skills and knowledge in the ever-evolving world of technology.
 
-##Technical Skills
+###Technical Skills
 Programming Languages: PHP, JavaScript, Python, HTML, CSS
 Frameworks and Libraries: Laravel, jQuery
 Databases: MySQL, PostgreSQL, MongoDB
@@ -63,9 +63,6 @@ Skills: Programming Languages: PHP, JavaScript, Python, HTML, CSS Frameworks and
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MDRASHELMIA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mdargentum/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100074386690728)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/mdargentum?igshid=ZDc4ODBmNjlmNQ==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/MdArgentum?t=DnFQ2RtgHRVLkr9o5Sk6pA&s=09)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/MDRASHELMIA&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/MDRASHELMIA)  
+  
 
 
