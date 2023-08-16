@@ -20,9 +20,10 @@ Over the years, I have Learing and  gained hands-on experience working on variou
 Right Now I am doing  a Bachelor of Science in Chemistry from <b> Dhaka College </b> (Affiliated) with University of Dhaka. Throughout my academic journey, I gained a solid foundation in programming concepts, data structures, algorithms, and software development methodologies. I continue to stay updated with the latest advancements in the field through self-learning and attending relevant workshops and conferences.
 
 <h2> <i>Training and Courses</i></h2>
-01. National Skill Certificate-IV in Web Development, NTVQF Level-IV -Bangladesh Technical Education Board <br/>
-02. Web Design - Bangladesh-Korea Technical Training Centre <br/>
-03. Diploma in Computer Science and ICT - Job Media Shorthand and Computer Training Center
+01. Web Application Development with Python (Django) Lavel-IV at Daffodil International Professional Training Institute. 
+02. National Skill Certificate-IV in Web Development, NTVQF Level-IV -Bangladesh Technical Education Board <br/>
+03. Web Design - Bangladesh-Korea Technical Training Centre <br/>
+04. Diploma in Computer Science and ICT - Job Media Shorthand and Computer Training Center
 
 <h2> <i>Personal Projects and Contributions:</i></h2>
 Apart from my professional experience, I am an avid learner and enjoy working on personal projects. I actively contribute to open-source projects on GitHub and have developed Advanced Ecommerce Multi Vendor Project  with Laravel A to Z by Kazi Ariyan of Udemy Instrctor. 
