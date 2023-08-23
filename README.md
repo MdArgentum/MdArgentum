@@ -1,7 +1,7 @@
 <!-- <img height="302px" width="100%" src='https://drscdn.500px.org/photo/1070307882/m%3D900/v2?sig=7207434b6c474655363fd40fe24f405bc4a3c69146a5f6e7a51c9a52d68cee3f' alt='PHOTO FOR GITHUB by MD. RASHEL MIA on 500px.com' /> -->
 <img  src="https://sumonforajy.com/wp-content/uploads/2023/05/PHOTO-FOR-GITHUB.jpeg" alt="Girl in a jacket" width="100%" height="280px">
 
-<h1>Hi there! My Name is <b> <i>MD. RASHEL MIA</i></b></h1>
+<h1>Hi there! My Name is  <i>MD. RASHEL MIA</i></h1>
 I'm A Passionate Software Developer Useing Python (Django) PHP (Laravel) With Expertise In Php And The Laravel Framework. I Have A Strong Background In Developing Robust And Scalable Web Applications, And I'm Constantly Seeking New Challenges To Enhance My Skills And Knowledge In The Ever-evolving World Of Technology. 
 
 <h2> <i>Technical Skills - ( Tech Stack )</i></h2>
@@ -66,7 +66,7 @@ Right Now I Am Doing  a Bachelor Of Science In Chemistry From <b> Dhaka College 
 04. Diploma in Computer Science and ICT -  <b> Job Media Shorthand and Computer Training Center  </b>
 
 <h2> <i>Personal Projects and Contributions:</i></h2>
-Apart From My Professional Experience, I Am An Avid Learner And Enjoy Working On Personal Projects And Collaboration Project. I Actively Contribute To Open-source Projects On GitHub. </br>
+Apart From My Professional Experience, I Am An Avid Learner And Enjoy Working On Personal Projects And Collaboration Project. I Actively Contribute To Open-source Projects On GitHub. </br></br>
 
 Right Now I Am Doing  a Collaboration Projects On Web Application Development With Web Application Development, Python (Django) At <b>Daffodil Internation Professional Training Institute </b> Teacher, My Team Member And All My Class Mate. </br>
 
@@ -89,6 +89,7 @@ I Thrive In A Collaborative Environment And Enjoy Working With Diverse Teams, Co
 
 <h2> <i>Passionate and motivated: </i></h2>
 I Am Genuinely Passionate About Software Development, And My Enthusiasm Drives Me To Continuously Improve And Deliver Exceptional Results.
+</br>
 
 Thank You For Taking The Time To Review My Profile. I Am Excited About The Opportunity To Contribute To Meaningful Projects And Make A Positive Impact. 
 
