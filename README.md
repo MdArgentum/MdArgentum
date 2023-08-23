@@ -1,8 +1,8 @@
 <!-- <img height="302px" width="100%" src='https://drscdn.500px.org/photo/1070307882/m%3D900/v2?sig=7207434b6c474655363fd40fe24f405bc4a3c69146a5f6e7a51c9a52d68cee3f' alt='PHOTO FOR GITHUB by MD. RASHEL MIA on 500px.com' /> -->
 <img  src="https://sumonforajy.com/wp-content/uploads/2023/05/PHOTO-FOR-GITHUB.jpeg" alt="Girl in a jacket" width="100%" height="280px">
 
-<h1>Hi there! My Name is <mark>MD. RASHEL MIA</mark></h1>
-I'm a passionate software developer useing PHP (Laravel) with expertise in PHP and the Laravel framework. I have a strong background in developing robust and scalable web applications, and I'm constantly seeking new challenges to enhance my skills and knowledge in the ever-evolving world of technology.
+<h1>Hi there! My Name is <b> <i>MD. RASHEL MIA</i></b></h1>
+I'm A Passionate Software Developer Useing Python (Django) PHP (Laravel) With Expertise In Php And The Laravel Framework. I Have A Strong Background In Developing Robust And Scalable Web Applications, And I'm Constantly Seeking New Challenges To Enhance My Skills And Knowledge In The Ever-evolving World Of Technology. 
 
 <h2> <i>Technical Skills - ( Tech Stack )</i></h2>
 
@@ -57,7 +57,7 @@ Tools and Technologies: RESTful APIs, JSON, AJAX, Bootstrap, PHPUnit, Composer -
 Over the years, I have Learing and  gained hands-on experience working on various software development projects.
 
 <h2> <i>Education</i></h2>
-Right Now I am doing  a Bachelor of Science in Chemistry from <b> Dhaka College </b> (Affiliated) with University of Dhaka. Throughout my academic journey, I gained a solid foundation in programming concepts, data structures, algorithms, and software development methodologies. I continue to stay updated with the latest advancements in the field through self-learning and attending relevant workshops and conferences.
+Right Now I Am Doing  a Bachelor Of Science In Chemistry From <b> Dhaka College </b> (Affiliated) With University Of Dhaka. Throughout My Academic Journey, I Gained A Solid Foundation In Programming Concepts, Data Structures, Algorithms, And Software Development Methodologies. I Continue To Stay Updated With The Latest Advancements In The Field Through Self-learning And Attending Relevant Workshops And Conferences.
 
 <h2> <i>Training and Courses</i></h2>
 01. Web Application Development with Python (Django) Lavel-IV at<b> Daffodil International Professional Training Institute.</b> <br/>
@@ -66,28 +66,33 @@ Right Now I am doing  a Bachelor of Science in Chemistry from <b> Dhaka College 
 04. Diploma in Computer Science and ICT -  <b> Job Media Shorthand and Computer Training Center  </b>
 
 <h2> <i>Personal Projects and Contributions:</i></h2>
-Apart from my professional experience, I am an avid learner and enjoy working on personal projects. I actively contribute to open-source projects on GitHub and have developed Advanced Ecommerce Multi Vendor Project  with Laravel A to Z by Kazi Ariyan of Udemy Instrctor. 
-These experiences have allowed me to strengthen my problem-solving skills, collaborate with developers worldwide, and showcase my passion for creating impactful software solutions.
+Apart From My Professional Experience, I Am An Avid Learner And Enjoy Working On Personal Projects And Collaboration Project. I Actively Contribute To Open-source Projects On GitHub. </br>
+
+Right Now I Am Doing  a Collaboration Projects On Web Application Development With Web Application Development, Python (Django) At <b>Daffodil Internation Professional Training Institute </b> Teacher, My Team Member And All My Class Mate. </br>
+
+And Also Now Have Developed Advanced Ecommerce Multi Vendor Project  with Laravel A To Z By Kazi Ariyan Of "Udemy" Instrctor. 
+</br>
+These Experiences Have Allowed Me To Strengthen My Problem-solving Skills, Collaborate With Developers Worldwide, And Showcase My Passion For Creating Impactful Software Solutions.
 
 <h2> <i>Why Choose Me</i></h2>
 <h2> <i>Strong technical skills: </i></h2>
-My proficiency in PHP and Laravel, coupled with my understanding of web development best practices, enables me to build amazing and wonderful applications.
+My Proficiency In PHP And Laravel, Coupled With My Understanding Of Web Development Best Practices, Enables Me To Build Amazing And Wonderful Applications
 
 <h2> <i>Quick learner: </i></h2>
-I have a strong aptitude for learning new technologies and frameworks, allowing me to adapt to new projects and challenges with ease.
+I Have A Strong Aptitude For Learning New Technologies And Frameworks, Allowing Me To Adapt To New Projects And Challenges With Ease.
 
 <h2> <i>Attention to detail: </i></h2>
-I believe in delivering high-quality code by paying attention to the smallest details and following industry-standard coding conventions.
+I Believe In Delivering High-quality Code By Paying Attention To The Smallest Details And Following Industry-standard Coding Conventions.
 
 <h2> <i>Team player: </i></h2>
-I thrive in a collaborative environment and enjoy working with diverse teams, contributing ideas, and sharing knowledge to achieve common goals.
+I Thrive In A Collaborative Environment And Enjoy Working With Diverse Teams, Contributing Ideas, And Sharing Knowledge To Achieve Common Goals..
 
 <h2> <i>Passionate and motivated: </i></h2>
-I am genuinely passionate about software development, and my enthusiasm drives me to continuously improve and deliver exceptional results.
+I Am Genuinely Passionate About Software Development, And My Enthusiasm Drives Me To Continuously Improve And Deliver Exceptional Results.
 
-Thank you for taking the time to review my profile. I am excited about the opportunity to contribute to meaningful projects and make a positive impact. 
+Thank You For Taking The Time To Review My Profile. I Am Excited About The Opportunity To Contribute To Meaningful Projects And Make A Positive Impact. 
 
-If you have any further questions or would like to discuss potential collaborations, please feel free to reach out to me.
+If You Have Any Further Questions Or Would Like To Discuss Potential Collaborations, Please Feel Free To Reach Out To Me.
 
 <h2> <i>Here is Contact Details: </i></h2>
 <h4> <u>MD. RASHEL MIA</u> </H4>
@@ -97,8 +102,8 @@ Email: <a href="mailto:mia47rashel@gmail.com">mia47rashel@gmail.com</a>
  </br>
 
 Skills: <br>
-Programming Languages: PHP, JavaScript, Python, HTML, CSS </br>
-Frameworks and Libraries: Laravel, jQuery </br>
+Programming Languages: Python, PHP, JavaScript, HTML, CSS </br>
+Frameworks and Libraries: Django, Laravel, jQuery </br>
 Databases: MySQL, PostgreSQL, MongoDB </br>
 Version Control: Git, GitHub </br>
 Tools and Technologies: RESTful APIs, JSON, AJAX, Bootstrap, PHPUnit, Composer and so many on. </br>
