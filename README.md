@@ -4,10 +4,10 @@
 <h1>Hi there! My Name is <mark>MD. RASHEL MIA</mark></h1>
 I'm a passionate software developer useing PHP (Laravel) with expertise in PHP and the Laravel framework. I have a strong background in developing robust and scalable web applications, and I'm constantly seeking new challenges to enhance my skills and knowledge in the ever-evolving world of technology.
 
-<h2> <i>Technical Skills</i></h2>
+<h2> <i>Technical Skills</i> (<h2>Tech Stack</h2>)</h2>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
-<h2>Tech Stack</h2>
+
 <h3> Programing Languages</h3>
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
