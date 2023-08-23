@@ -1,7 +1,8 @@
 <!-- <img height="302px" width="100%" src='https://drscdn.500px.org/photo/1070307882/m%3D900/v2?sig=7207434b6c474655363fd40fe24f405bc4a3c69146a5f6e7a51c9a52d68cee3f' alt='PHOTO FOR GITHUB by MD. RASHEL MIA on 500px.com' /> -->
 <img  src="https://sumonforajy.com/wp-content/uploads/2023/05/PHOTO-FOR-GITHUB.jpeg" alt="Girl in a jacket" width="100%" height="280px">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.1/css/bootstrap-grid.min.css" integrity="sha512-2cWcZ9cbPMZFm2inlFOhwsBVbNMmNxKBtVXqL8OY9tXCZahhnIfXMxPCzpKqiHF2I2mOiNHNXEDUDglwd+4uYw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-<h6 class="display-1">Hi there! My Name is</h6> <h1> <i>MD. RASHEL MIA</i></h1>
+<h6 class="display-1">Hi there! My Name is</h6> 
+<h1> <i>MD. RASHEL MIA</i> </h1> <hr>
 I'm A Passionate Software Developer Useing Python (Django) and PHP (Laravel) With Expertise In Python, PHP And  Django, Laravel Frameworks. I Have A Strong Background In Developing Robust And Scalable Web Applications, And I'm Constantly Seeking New Challenges To Enhance My Skills And Knowledge In The Ever-evolving World Of Technology. 
 
 <h2> <i>Technical Skills - ( Tech Stack )</i></h2>
